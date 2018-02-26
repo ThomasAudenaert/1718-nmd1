@@ -1,11 +1,12 @@
 h1 {
     font-family: 'PT Sans', sans-serif;
-    color: #ffffff;
+    color: #F5D04C;
     width: 1500px;
     height: 50px;
     background-color: #cc0000;
     margin-left: -6px;
     margin-top: -9px;
+    padding-left: 10px;
 }
 
 a {
@@ -17,19 +18,16 @@ a:link {
     border: 2px solid #cc0000;
     padding: 10px;
     color: #cc0000;
-    font-family: 'Lato', sans-serif;
-    text-decoration: none;
 }
 
 a:hover{
     background-color: #cc0000;
     color: white;
-    font-family: 'Lato', sans-serif;
-    text-decoration: none;
 }
 
 a:visited {
-    color: inherit;
+    color: #F5D04C;
+    border: 2px solid #cc0000;
 }
 
 .practica {
