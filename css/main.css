@@ -6,7 +6,15 @@ h1 {
     background-color: #cc0000;
     margin-left: -6px;
     margin-top: -9px;
-    padding-left: 10px;
+    padding: 5px;
+}
+
+h3 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -33,4 +41,28 @@ a:visited {
 .practica {
     margin-top: -10px;
     display: flex;
+}
+
+
+.mezelf {
+    height: 300px;
+    width: 1270px;
+    background-color: #cc0000;
+    color: white;
+    padding: 3px;
+    margin-top: 5px;
+    margin-right: -10px;
+    margin-left: -5px;
+}
+
+.introtekst {
+    margin: 50px;
+    margin-bottom: -40px;
+}
+
+.sushi {
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: -98px;
 }
